@@ -1,0 +1,1 @@
+Basic website with limited working knowledge. Following Odin Project guide.
